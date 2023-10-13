@@ -9,10 +9,15 @@ API, написанный на aiohttp(backend) для сайта объявле
 владелец
 
 для запуска нужен .env фаил: 
+
 DB_NAME=                           
+
 DB_USER=                        
-POSTGRES_PASSWORD=
+
+DB_PASSWORD=
+
 DB_HOST=
+
 DB_PORT=
 
 
